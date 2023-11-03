@@ -1,0 +1,28 @@
+.searchbox button{
+    
+    width: 350px;
+    height: 48px;
+    border-radius: 5px;
+    background-color: aqua;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
+.searchbox{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    flex: 1;
+    height: 50px;
+    margin: 8px;
+    padding: 10px;
+    margin-top: -35px;
+    gap: 1rem;
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    padding-right: 32px;
+    width: 300px;
+    text-align: left;
+}
